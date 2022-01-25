@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DNA_Template
 {
-    public class Class1
+    class Keybinds
     {
     }
 }
